@@ -22,7 +22,7 @@ export class AppComponent  implements OnInit{
   personas:any[]=[]
   title = 'borrar66';
   settings = {
-    mode: 'internal', //para usar la funcion borrar() debemos poner  mode:'external'
+    mode: 'internal', // internal|external
     selectMode: 'single', // single|multi
     hideHeader: false,
     hideSubHeader: false,
