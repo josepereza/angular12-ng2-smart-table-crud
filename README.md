@@ -1,4 +1,5 @@
-# Borrar66
+# ng2-smrt-table-crud
+![image](table.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
