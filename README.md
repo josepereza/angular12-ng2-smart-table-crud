@@ -1,6 +1,8 @@
 # ng2-smart-table-crud
 ![image](table.png)
-
+## Documentacion:
+* https://github.com/akveo/ng2-smart-table/tree/master/projects/demo/src/app/pages/examples
+* https://akveo.github.io/ng2-smart-table/#/
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
 ## Development server
